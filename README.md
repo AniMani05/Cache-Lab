@@ -70,3 +70,7 @@ This provides a detailed analysis of cache performance.
 - The simulation provides insights into cache efficiency by analyzing how different configurations (values of `s`, `b`, `e`, and `t`) impact performance.
 
 ---
+
+## Acknowledgements
+
+A special thanks to the instructors of my Computer Systems course for their invaluable guidance on this project.
